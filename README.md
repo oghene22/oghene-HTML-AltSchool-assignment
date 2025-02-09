@@ -1,1 +1,1 @@
-This is my ALtSchool HTML Assignmentg
+This is my AltSchool HTML Assignment
